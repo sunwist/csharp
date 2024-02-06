@@ -1,0 +1,15 @@
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\EstruturaSequencial\exercicio03\exercicio03\bin\Debug\net8.0\exercicio03.exe
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\EstruturaSequencial\exercicio03\exercicio03\bin\Debug\net8.0\exercicio03.deps.json
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\EstruturaSequencial\exercicio03\exercicio03\bin\Debug\net8.0\exercicio03.runtimeconfig.json
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\EstruturaSequencial\exercicio03\exercicio03\bin\Debug\net8.0\exercicio03.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\EstruturaSequencial\exercicio03\exercicio03\bin\Debug\net8.0\exercicio03.pdb
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\EstruturaSequencial\exercicio03\exercicio03\obj\Debug\net8.0\exercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\EstruturaSequencial\exercicio03\exercicio03\obj\Debug\net8.0\exercicio03.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\EstruturaSequencial\exercicio03\exercicio03\obj\Debug\net8.0\exercicio03.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\EstruturaSequencial\exercicio03\exercicio03\obj\Debug\net8.0\exercicio03.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\EstruturaSequencial\exercicio03\exercicio03\obj\Debug\net8.0\exercicio03.sourcelink.json
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\EstruturaSequencial\exercicio03\exercicio03\obj\Debug\net8.0\exercicio03.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\EstruturaSequencial\exercicio03\exercicio03\obj\Debug\net8.0\refint\exercicio03.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\EstruturaSequencial\exercicio03\exercicio03\obj\Debug\net8.0\exercicio03.pdb
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\EstruturaSequencial\exercicio03\exercicio03\obj\Debug\net8.0\exercicio03.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\EstruturaSequencial\exercicio03\exercicio03\obj\Debug\net8.0\ref\exercicio03.dll
