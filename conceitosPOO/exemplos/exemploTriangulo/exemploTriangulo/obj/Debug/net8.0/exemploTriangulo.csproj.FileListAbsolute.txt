@@ -1,0 +1,15 @@
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploTriangulo\exemploTriangulo\bin\Debug\net8.0\exemploTriangulo.exe
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploTriangulo\exemploTriangulo\bin\Debug\net8.0\exemploTriangulo.deps.json
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploTriangulo\exemploTriangulo\bin\Debug\net8.0\exemploTriangulo.runtimeconfig.json
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploTriangulo\exemploTriangulo\bin\Debug\net8.0\exemploTriangulo.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploTriangulo\exemploTriangulo\bin\Debug\net8.0\exemploTriangulo.pdb
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploTriangulo\exemploTriangulo\obj\Debug\net8.0\exemploTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploTriangulo\exemploTriangulo\obj\Debug\net8.0\exemploTriangulo.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploTriangulo\exemploTriangulo\obj\Debug\net8.0\exemploTriangulo.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploTriangulo\exemploTriangulo\obj\Debug\net8.0\exemploTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploTriangulo\exemploTriangulo\obj\Debug\net8.0\exemploTriangulo.sourcelink.json
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploTriangulo\exemploTriangulo\obj\Debug\net8.0\exemploTriangulo.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploTriangulo\exemploTriangulo\obj\Debug\net8.0\refint\exemploTriangulo.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploTriangulo\exemploTriangulo\obj\Debug\net8.0\exemploTriangulo.pdb
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploTriangulo\exemploTriangulo\obj\Debug\net8.0\exemploTriangulo.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploTriangulo\exemploTriangulo\obj\Debug\net8.0\ref\exemploTriangulo.dll

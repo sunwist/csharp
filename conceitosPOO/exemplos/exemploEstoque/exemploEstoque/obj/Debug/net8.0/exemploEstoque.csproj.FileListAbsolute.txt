@@ -1,0 +1,15 @@
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploEstoque\exemploEstoque\bin\Debug\net8.0\exemploEstoque.exe
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploEstoque\exemploEstoque\bin\Debug\net8.0\exemploEstoque.deps.json
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploEstoque\exemploEstoque\bin\Debug\net8.0\exemploEstoque.runtimeconfig.json
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploEstoque\exemploEstoque\bin\Debug\net8.0\exemploEstoque.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploEstoque\exemploEstoque\bin\Debug\net8.0\exemploEstoque.pdb
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploEstoque\exemploEstoque\obj\Debug\net8.0\exemploEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploEstoque\exemploEstoque\obj\Debug\net8.0\exemploEstoque.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploEstoque\exemploEstoque\obj\Debug\net8.0\exemploEstoque.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploEstoque\exemploEstoque\obj\Debug\net8.0\exemploEstoque.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploEstoque\exemploEstoque\obj\Debug\net8.0\exemploEstoque.sourcelink.json
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploEstoque\exemploEstoque\obj\Debug\net8.0\exemploEstoque.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploEstoque\exemploEstoque\obj\Debug\net8.0\refint\exemploEstoque.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploEstoque\exemploEstoque\obj\Debug\net8.0\exemploEstoque.pdb
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploEstoque\exemploEstoque\obj\Debug\net8.0\exemploEstoque.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\exemploEstoque\exemploEstoque\obj\Debug\net8.0\ref\exemploEstoque.dll

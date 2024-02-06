@@ -1,0 +1,15 @@
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\membrosEstaticos\exercicioFixacao\exercicioFixacao\bin\Debug\net8.0\exercicioFixacao.exe
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\membrosEstaticos\exercicioFixacao\exercicioFixacao\bin\Debug\net8.0\exercicioFixacao.deps.json
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\membrosEstaticos\exercicioFixacao\exercicioFixacao\bin\Debug\net8.0\exercicioFixacao.runtimeconfig.json
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\membrosEstaticos\exercicioFixacao\exercicioFixacao\bin\Debug\net8.0\exercicioFixacao.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\membrosEstaticos\exercicioFixacao\exercicioFixacao\bin\Debug\net8.0\exercicioFixacao.pdb
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\membrosEstaticos\exercicioFixacao\exercicioFixacao\obj\Debug\net8.0\exercicioFixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\membrosEstaticos\exercicioFixacao\exercicioFixacao\obj\Debug\net8.0\exercicioFixacao.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\membrosEstaticos\exercicioFixacao\exercicioFixacao\obj\Debug\net8.0\exercicioFixacao.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\membrosEstaticos\exercicioFixacao\exercicioFixacao\obj\Debug\net8.0\exercicioFixacao.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\membrosEstaticos\exercicioFixacao\exercicioFixacao\obj\Debug\net8.0\exercicioFixacao.sourcelink.json
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\membrosEstaticos\exercicioFixacao\exercicioFixacao\obj\Debug\net8.0\exercicioFixacao.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\membrosEstaticos\exercicioFixacao\exercicioFixacao\obj\Debug\net8.0\refint\exercicioFixacao.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\membrosEstaticos\exercicioFixacao\exercicioFixacao\obj\Debug\net8.0\exercicioFixacao.pdb
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\membrosEstaticos\exercicioFixacao\exercicioFixacao\obj\Debug\net8.0\exercicioFixacao.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\conceitosPOO\membrosEstaticos\exercicioFixacao\exercicioFixacao\obj\Debug\net8.0\ref\exercicioFixacao.dll
