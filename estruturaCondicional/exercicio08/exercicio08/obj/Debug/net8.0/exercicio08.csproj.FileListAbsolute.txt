@@ -1,0 +1,15 @@
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\estruturacondicional\exercicio08\exercicio08\bin\Debug\net8.0\exercicio08.exe
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\estruturacondicional\exercicio08\exercicio08\bin\Debug\net8.0\exercicio08.deps.json
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\estruturacondicional\exercicio08\exercicio08\bin\Debug\net8.0\exercicio08.runtimeconfig.json
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\estruturacondicional\exercicio08\exercicio08\bin\Debug\net8.0\exercicio08.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\estruturacondicional\exercicio08\exercicio08\bin\Debug\net8.0\exercicio08.pdb
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\estruturacondicional\exercicio08\exercicio08\obj\Debug\net8.0\exercicio08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\estruturacondicional\exercicio08\exercicio08\obj\Debug\net8.0\exercicio08.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\estruturacondicional\exercicio08\exercicio08\obj\Debug\net8.0\exercicio08.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\estruturacondicional\exercicio08\exercicio08\obj\Debug\net8.0\exercicio08.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\estruturacondicional\exercicio08\exercicio08\obj\Debug\net8.0\exercicio08.sourcelink.json
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\estruturacondicional\exercicio08\exercicio08\obj\Debug\net8.0\exercicio08.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\estruturacondicional\exercicio08\exercicio08\obj\Debug\net8.0\refint\exercicio08.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\estruturacondicional\exercicio08\exercicio08\obj\Debug\net8.0\exercicio08.pdb
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\estruturacondicional\exercicio08\exercicio08\obj\Debug\net8.0\exercicio08.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp-completo\estruturacondicional\exercicio08\exercicio08\obj\Debug\net8.0\ref\exercicio08.dll
