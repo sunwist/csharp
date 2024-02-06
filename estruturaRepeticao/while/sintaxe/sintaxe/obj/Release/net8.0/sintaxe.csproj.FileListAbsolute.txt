@@ -1,0 +1,4 @@
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\estruturarepeticao\while\sintaxe\sintaxe\obj\Release\net8.0\sintaxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\estruturarepeticao\while\sintaxe\sintaxe\obj\Release\net8.0\sintaxe.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\estruturarepeticao\while\sintaxe\sintaxe\obj\Release\net8.0\sintaxe.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\estruturarepeticao\while\sintaxe\sintaxe\obj\Release\net8.0\sintaxe.csproj.CoreCompileInputs.cache

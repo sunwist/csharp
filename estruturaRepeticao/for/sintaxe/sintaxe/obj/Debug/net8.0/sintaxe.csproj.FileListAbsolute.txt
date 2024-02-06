@@ -1,0 +1,14 @@
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\estruturarepeticao\for\sintaxe\sintaxe\bin\Debug\net8.0\sintaxe.exe
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\estruturarepeticao\for\sintaxe\sintaxe\bin\Debug\net8.0\sintaxe.deps.json
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\estruturarepeticao\for\sintaxe\sintaxe\bin\Debug\net8.0\sintaxe.runtimeconfig.json
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\estruturarepeticao\for\sintaxe\sintaxe\bin\Debug\net8.0\sintaxe.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\estruturarepeticao\for\sintaxe\sintaxe\bin\Debug\net8.0\sintaxe.pdb
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\estruturarepeticao\for\sintaxe\sintaxe\obj\Debug\net8.0\sintaxe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\estruturarepeticao\for\sintaxe\sintaxe\obj\Debug\net8.0\sintaxe.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\estruturarepeticao\for\sintaxe\sintaxe\obj\Debug\net8.0\sintaxe.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\estruturarepeticao\for\sintaxe\sintaxe\obj\Debug\net8.0\sintaxe.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\estruturarepeticao\for\sintaxe\sintaxe\obj\Debug\net8.0\sintaxe.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\estruturarepeticao\for\sintaxe\sintaxe\obj\Debug\net8.0\refint\sintaxe.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\estruturarepeticao\for\sintaxe\sintaxe\obj\Debug\net8.0\sintaxe.pdb
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\estruturarepeticao\for\sintaxe\sintaxe\obj\Debug\net8.0\sintaxe.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\estruturarepeticao\for\sintaxe\sintaxe\obj\Debug\net8.0\ref\sintaxe.dll
