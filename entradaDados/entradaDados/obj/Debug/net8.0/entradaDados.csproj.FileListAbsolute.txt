@@ -1,0 +1,14 @@
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\entradaDados\bin\Debug\net8.0\entradaDados.exe
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\entradaDados\bin\Debug\net8.0\entradaDados.deps.json
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\entradaDados\bin\Debug\net8.0\entradaDados.runtimeconfig.json
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\entradaDados\bin\Debug\net8.0\entradaDados.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\entradaDados\bin\Debug\net8.0\entradaDados.pdb
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\entradaDados\obj\Debug\net8.0\entradaDados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\entradaDados\obj\Debug\net8.0\entradaDados.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\entradaDados\obj\Debug\net8.0\entradaDados.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\entradaDados\obj\Debug\net8.0\entradaDados.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\entradaDados\obj\Debug\net8.0\entradaDados.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\entradaDados\obj\Debug\net8.0\refint\entradaDados.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\entradaDados\obj\Debug\net8.0\entradaDados.pdb
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\entradaDados\obj\Debug\net8.0\entradaDados.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\entradaDados\obj\Debug\net8.0\ref\entradaDados.dll

@@ -1,0 +1,14 @@
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\exercicioproposto\exercicioproposto\bin\Debug\net8.0\exercicioproposto.exe
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\exercicioproposto\exercicioproposto\bin\Debug\net8.0\exercicioproposto.deps.json
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\exercicioproposto\exercicioproposto\bin\Debug\net8.0\exercicioproposto.runtimeconfig.json
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\exercicioproposto\exercicioproposto\bin\Debug\net8.0\exercicioproposto.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\exercicioproposto\exercicioproposto\bin\Debug\net8.0\exercicioproposto.pdb
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\exercicioproposto\exercicioproposto\obj\Debug\net8.0\exercicioproposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\exercicioproposto\exercicioproposto\obj\Debug\net8.0\exercicioproposto.AssemblyInfoInputs.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\exercicioproposto\exercicioproposto\obj\Debug\net8.0\exercicioproposto.AssemblyInfo.cs
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\exercicioproposto\exercicioproposto\obj\Debug\net8.0\exercicioproposto.csproj.CoreCompileInputs.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\exercicioproposto\exercicioproposto\obj\Debug\net8.0\exercicioproposto.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\exercicioproposto\exercicioproposto\obj\Debug\net8.0\refint\exercicioproposto.dll
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\exercicioproposto\exercicioproposto\obj\Debug\net8.0\exercicioproposto.pdb
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\exercicioproposto\exercicioproposto\obj\Debug\net8.0\exercicioproposto.genruntimeconfig.cache
+C:\Users\olive\OneDrive\Imagens\Documentos\csharp\entradaDados\exercicioproposto\exercicioproposto\obj\Debug\net8.0\ref\exercicioproposto.dll
